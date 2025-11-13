@@ -39,3 +39,6 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ### Display the result of Hough transform
 <img width="791" height="558" alt="image" src="https://github.com/user-attachments/assets/3652ca55-9562-4280-a59f-9ee9adc65a1f" />
 
+
+## Result:
+Thus the program is written with Python and OpenCV to detect lines using Hough transform.
